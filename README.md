@@ -55,16 +55,4 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 
-<br>
-
-<img src="https://github-stats-extended.vercel.app/api?username=jxxhvvnkxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%" />
-
-<br>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jxxhvvnkxx&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=jxxhvvnkxx&theme=tokyonight&hide_border=true" width="45%" />
-
 </div>
