@@ -1,6 +1,14 @@
 <div align="center">
+  
+<br>
+  
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=36&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Jaehyun+Kim;Aspiring+Fullstack+Developer" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=460&lines=Backend+Developer;Jaehyun+Kim;Aspiring+Fullstack+Developer" alt="Typing SVG" />
+<br><br>
+
+<a href="mailto:reenact14@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://velog.io/@kimreenact/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a>
+<a href="https://instagram.com/jxxhvvn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <br>
 
@@ -58,10 +66,5 @@
 <br>
 
 <img src="https://streak-stats.demolab.com/?user=jxxhvvnkxx&theme=tokyonight&hide_border=true" width="45%" />
-
-<br><br>
-
-<a href="mailto:reenact14@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://velog.io/@kimreenact/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a>
 
 </div>
