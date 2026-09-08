@@ -12,7 +12,7 @@
 
 <br>
 
-🎓 Myongji University — Applied Software, School of Convergence Software · Junior (3rd Year)
+🎓 Myongji University — Applied Software, School of Convergence Software · 3rd Year
 <br>
 🦁 Likelion 14th Cohort — Fullstack Track
 
