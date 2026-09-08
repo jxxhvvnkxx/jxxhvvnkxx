@@ -1,44 +1,67 @@
 <div align="center">
 
-### 👋 안녕하세요
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=460&lines=Backend+Developer;Jaehyun+Kim;Aspiring+Fullstack+Developer" alt="Typing SVG" />
 
-**백엔드 개발자**로 커리어를 시작해, 최종적으로는 **DBA**를 목표로 하는 김재현입니다.
+<br>
+
+🎓 Myongji University — Applied Software, School of Convergence Software · Junior (3rd Year)
+<br>
+🦁 Likelion 14th Cohort — Fullstack Track
+
+<br>
+
+**Backend**
+<br><br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+
+**Mobile**
+<br><br>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+
+**Frontend**
+<br><br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+**Database**
+<br><br>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+**Infra**
+<br><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+
+**Collaboration**
+<br><br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+
+<br>
+
+<img src="https://github-stats-extended.vercel.app/api?username=jxxhvvnkxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%" />
+
+<br>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jxxhvvnkxx&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=jxxhvvnkxx&theme=tokyonight&hide_border=true" width="45%" />
+
+<br><br>
+
+<a href="mailto:reenact14@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://velog.io/@kimreenact/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a>
 
 </div>
-
----
-
-### 🧑‍💻 About
-
-```
-🎓  명지대학교 융합소프트웨어학부 · 응용소프트웨어전공 3학년
-
-🦁  멋쟁이사자처럼 14기 · 풀스택 파트
-
-🎯  백엔드 개발자 지망 → DBA 최종 목표
-```
-
-### 📜 자격증
-
-- 🗂️ 정보처리산업기사
-- 🛢️ SQLD (SQL 개발자)
-- 📊 ADSP (데이터분석 준전문가)
-- 🌐 네트워크관리사 2급
-- 🖥️ 정보처리기능사
-- ⚙️ 정보기기운용기능사
-
-### 🛠️ 배우고 있는 기술
-
-`Spring Boot`  ·  `Spring Data JPA`  ·  `PostgreSQL`  ·  `React`  ·  `AWS`  ·  `Docker`
-
-> 명지톤 2026(팀 프로젝트 Sync.day)에서 유사도 매칭 로직·PostgreSQL 쿼리 설계 작업을 경험했습니다.
-
-### 🔭 관심 분야
-
-> Spring 기반 서버 · API 설계 · SQL & 쿼리 튜닝
-
-### 📫 Contact
-
-📧 email: reenact14@gmail.com
-
-✍️ Velog: https://velog.io/@kimreenact/posts
