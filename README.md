@@ -1,7 +1,7 @@
 <div align="center">
-  
+
 <br>
-  
+
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=36&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Jaehyun+Kim;Aspiring+Fullstack+Developer" alt="Typing SVG" />
 
 <br><br>
@@ -54,5 +54,14 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+
+**Certifications**
+<br><br>
+<img src="https://img.shields.io/badge/정보처리산업기사-2E9EF7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQLD-2E9EF7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ADsP-2E9EF7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/네트워크관리사_2급-2E9EF7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/정보처리기능사-2E9EF7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/정보기기운용기능사-2E9EF7?style=for-the-badge" />
 
 </div>
