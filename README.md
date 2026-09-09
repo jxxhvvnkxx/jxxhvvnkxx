@@ -4,11 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=36&pause=1000&color=2E9EF7&center=true&vCenter=true&width=620&lines=Backend+Developer;Jaehyun+Kim;Aspiring+Fullstack+Developer" alt="Typing SVG" />
 
-<br><br>
-
-<a href="mailto:reenact14@gmail.com"><img src="https://img.shields.io/badge/Gmail-reenact14%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://velog.io/@kimreenact/posts"><img src="https://img.shields.io/badge/Velog-kimreenact-20C997?style=flat&logo=velog&logoColor=white" /></a>
-<a href="https://instagram.com/jxxhvvn"><img src="https://img.shields.io/badge/Instagram-jxxhvvn-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+<br>
 
 <br>
 
@@ -65,4 +61,11 @@
 <img src="https://img.shields.io/badge/정보처리기능사-2E9EF7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/정보기기운용기능사-2E9EF7?style=for-the-badge" />
 
+**Contact**
+<br><br>
+<a href="mailto:reenact14@gmail.com"><img src="https://img.shields.io/badge/Gmail-reenact14%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://velog.io/@kimreenact/posts"><img src="https://img.shields.io/badge/Velog-kimreenact-20C997?style=flat&logo=velog&logoColor=white" /></a>
+<a href="https://instagram.com/jxxhvvn"><img src="https://img.shields.io/badge/Instagram-jxxhvvn-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+
 </div>
+
